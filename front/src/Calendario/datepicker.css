@@ -1,0 +1,82 @@
+.react-datepicker__day {
+  width: 2rem;
+}
+.react-datepicker__day--highlighted:hover {
+  width: 32px;
+  color: white;
+  border-radius: 22rem;
+}
+.react-datepicker__day:hover {
+  border-radius: 22rem;
+  transform: scale(1.2);
+  transition: transform 0.2s;
+}
+.react-datepicker__day--selected:hover {
+  border-radius: 10rem;
+  width: 32px;
+}
+
+.react-datepicker__day--selected {
+  border-radius: 10rem;
+  width: 32px;
+  color: white;
+}
+
+.custom-datepick {
+  width: 20px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom-disponibilidad-green {
+  border-width: 1px;
+  border-color: rgb(105, 249, 105);
+  background-color: rgb(105, 249, 105);
+  border-style: solid;
+  border-radius: 10rem;
+}
+.custom-disponibilidad-orange {
+  border-width: 1px;
+  border-color: rgb(250, 206, 122);
+  background-color: rgb(250, 206, 122);
+  border-style: solid;
+  border-radius: 10rem;
+}
+
+.custom-disponibilidad-red {
+  border-width: 1px;
+  background-color: rgb(246, 121, 121);
+  border-color: rgb(246, 121, 121);
+  border-style: solid;
+  border-radius: 10rem;
+}
+
+.custom-day {
+  line-height: 10px;
+  font-size: 12px; /* Ajusta el tamaño del texto según tus preferencias */
+  text-align: center; /* Centra el texto */
+  color: black; /* Cambia el color del precio según tus preferencias */
+}
+
+.custom-price {
+  font-size: 8px;
+  font-weight: bold;
+  color: black;
+  line-height: 10px;
+  font-weight: 400;
+}
+
+.react-datepicker__day--selected .custom-price {
+  border-radius: 20rem;
+  color: black;
+}
+
+.react-datepicker__header {
+  background-color: white;
+}
+.react-datepicker__day-name {
+  width: 2rem;
+}

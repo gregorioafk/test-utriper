@@ -1,0 +1,20 @@
+[
+  { "fecha": "01/9/2023", "disponibilidad": 10, "precio": 80 },
+  { "fecha": "5/9/2023", "disponibilidad": 12, "precio": 90 },
+  { "fecha": "10/9/2023", "disponibilidad": 8, "precio": 70 },
+  { "fecha": "15/9/2023", "disponibilidad": 5, "precio": 60 },
+  { "fecha": "20/9/2023", "disponibilidad": 7, "precio": 75 },
+  { "fecha": "25/9/2023", "disponibilidad": 9, "precio": 85 },
+  { "fecha": "1/10/2023", "disponibilidad": 15, "precio": 100 },
+  { "fecha": "5/10/2023", "disponibilidad": 15, "precio": 100 },
+  { "fecha": "10/10/2023", "disponibilidad": 13, "precio": 95 },
+  { "fecha": "15/10/2023", "disponibilidad": 12, "precio": 90 },
+  { "fecha": "20/10/2023", "disponibilidad": 10, "precio": 80 },
+  { "fecha": "25/10/2023", "disponibilidad": 8, "precio": 70 },
+  { "fecha": "1/11/2023", "disponibilidad": 10, "precio": 80 },
+  { "fecha": "5/11/2023", "disponibilidad": 9, "precio": 85 },
+  { "fecha": "10/11/2023", "disponibilidad": 8, "precio": 70 },
+  { "fecha": "15/11/2023", "disponibilidad": 7, "precio": 75 },
+  { "fecha": "20/11/2023", "disponibilidad": 6, "precio": 65 },
+  { "fecha": "25/11/2023", "disponibilidad": 5, "precio": 60 }
+]

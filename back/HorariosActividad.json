@@ -1,0 +1,43 @@
+{
+  "eventos": [
+    {
+      "id": 1,
+      "nombre": "Cumpleaños",
+      "fecha": "1990-01-01",
+      "recurrencia": {
+        "frecuencia": "anual"
+      },
+      "excepciones": []
+    },
+    {
+      "id": 2,
+      "nombre": "Tarea diaria",
+      "horario": {
+        "inicio": "08:00",
+        "fin": "09:00"
+      },
+      "recurrencia": {
+        "frecuencia": "diaria"
+      },
+      "excepciones": ["sabado", "domingo"]
+    },
+    {
+      "id": 3,
+      "nombre": "Horario de atención",
+      "horario": {
+        "inicio": "09:00",
+        "fin": "17:00"
+      },
+      "recurrencia": {
+        "frecuencia": "semanal",
+        "dias": ["lunes", "martes", "miércoles", "jueves", "viernes"]
+      },
+      "excepciones": [
+        {
+          "fecha": "2023-10-02",
+          "estado": "cerrado"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "rates": {
+    "USDEUR": {
+      "rate": 0.95315,
+      "timestamp": 1696272003
+    },
+    "USDGBP": {
+      "rate": 0.82612,
+      "timestamp": 1696272003
+    },
+    "USDCOP": {
+      "rate": 4162.5,
+      "timestamp": 1696272003
+    }
+  },
+  "code": 200
+}
